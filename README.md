@@ -16,6 +16,14 @@
 - UF312-07W82-H89XZ-7FPGE-XUH80
 - AA3DH-0PYD1-0803P-X4Z7V-PGHR4
 
+# VMware-Workstation-16.x.x-serial-keys
+
+## Serial Keys:
+
+- ZF71R-DMX85-08DQY-8YMNC-PPHV8
+- AZ3E8-DCD8J-0842Z-N6NZE-XPKYF
+- FC11K-00DE0-0800Z-04Z5E-MC8T6
+
 ### Just share the Keys if it works for you!!
 
 == Have a Nice Day ==
